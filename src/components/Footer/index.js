@@ -107,6 +107,7 @@ function Footer() {
                   </ul>
                 </nav>
               </div>
+              {/* footer__column */}
               <div class="footer__column">
                 <div class="footer__label">Resources</div>
                 <nav class="footer__menu menu-footer">
