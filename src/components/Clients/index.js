@@ -38,7 +38,7 @@ function Clients() {
           </div>
         </div>
       </div>
-      {/* <!-- block  subscribe --> */}
+      {/* <!-- block subscribe --> */}
       <section class="page__subscribe subscribe">
         <div class="subscribe__container _container">
           <div class="subscribe__body">
@@ -140,6 +140,7 @@ function Clients() {
           </div>
         </div>
       </section>
+      {/* contacts  */}
       <section class="page__contact contact">
         <div class="contact__container _container">
           <div class="contact__body">
